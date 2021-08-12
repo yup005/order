@@ -1,13 +1,13 @@
-package pers.pan.springHW;
+package pers.pan.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringHwApplication {
+public class orderApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringHwApplication.class, args);
+		SpringApplication.run(orderApplication.class, args);
 	}
 
 }

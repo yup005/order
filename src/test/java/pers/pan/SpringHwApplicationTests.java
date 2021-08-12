@@ -1,4 +1,4 @@
-package pers.pan.springHW;
+package pers.pan;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

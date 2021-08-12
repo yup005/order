@@ -1,7 +1,6 @@
-package pers.pan.springHW.Order;
+package pers.pan.order;
 
 import javax.persistence.*;
-import java.util.Map;
 
 @Entity
 @Table(name = "orders")

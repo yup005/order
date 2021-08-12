@@ -1,4 +1,4 @@
-package pers.pan.springHW.Order;
+package pers.pan.order;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -8,8 +8,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
-import pers.pan.springHW.bank.User;
-import pers.pan.springHW.employee.Employee;
 
 @Controller
 public class OrderController {
